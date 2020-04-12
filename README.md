@@ -1,2 +1,2 @@
-# gbuster.sh
-This is a quick shell script to automate gbuster for a large number of domains or sub-domains. 
+# recon_scripts
+This is a simple project which contains the recon scripts I made to automate some stuff
