@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This is a quick shell script to automate gbuster for a large number of domains or sub-domains.
+
 for sdomain in $(cat subdomains.txt);do
         name=${sdomain##*/}
         protocol=${sdomain%:*}
